@@ -1,3 +1,4 @@
 # Ignore specific files
 data.grib
-
+extracted_data.csv
+data.grib.5b7b6.idx
