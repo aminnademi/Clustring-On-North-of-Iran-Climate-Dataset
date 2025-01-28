@@ -1,4 +1,7 @@
 # Ignore specific files
 data.grib
-extracted_data.csv
-data.grib.5b7b6.idx
+main_data.csv
+tp_data.csv
+data.grib.47d85.idx
+Paper & Documentation.pdf
+Theft File.pdf
